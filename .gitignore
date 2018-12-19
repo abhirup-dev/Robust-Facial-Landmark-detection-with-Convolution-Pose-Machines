@@ -1,0 +1,7 @@
+checkpoint*
+*.tar*
+san_vision
+log
+runs
+mnist
+datasets
